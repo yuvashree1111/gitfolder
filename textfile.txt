@@ -1,0 +1,7 @@
+Read me to follow instructions
+  open directory
+  git clone
+  git add . or git add "file name"
+  git commit -m "commit msg"
+  git push origin main or git push origin
+  git status
