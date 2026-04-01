@@ -7,3 +7,6 @@ Read me to follow instructions
   git pull
 
 git status--to get the upcoming nd ongoing steps
+  git init 
+  git branch 
+  git branch -a
